@@ -1,0 +1,29 @@
+git hub create account
+create a repository
+copy repository in local machine
+
+Create folder where you want the repo.
+go to the adress bar and type cmd and hit enter.
+git clone repository URL.
+D:/> get clone paste the link @ cmd on adress bar
+
+get status in directory
+
+add some work/files in your repo. directory
+get status
+
+untracked files shows in red color
+
+to track or add git add . to add all files
+
+tracked files shows in green
+
+to discribe your work as follow: m in commas your message 
+
+git commi -m"i do study smit web and app delvepment"
+
+then check get status
+nothing changing message
+
+to update git hub file to internet as follow
+get push origin main
